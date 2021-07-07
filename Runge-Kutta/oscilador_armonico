@@ -1,0 +1,30 @@
+#código sencillo para visualizar el oscilador armónico 
+#si ya se conoce la solución analítica a este problema.
+#\theta es la variable dependiente del tiempo.
+
+import math as math #libreria de funciones
+import numpy as np #libreria de calculos
+import matplotlib.pyplot as plt  #libreria para graficar
+
+g = 9.81 #m/s^2 aceleracion de la gravedad
+
+l = 5#print('Indique la longitud del péndulo:',l)   #longitud del péndulo
+dt =0.01  #diferencial de tiempo en segundos
+t = np.arange(0,6 + dt,dt)
+omega = math.sqrt(g/l)
+
+theta = np.sin(omega*t) #ecuación de posición
+#print('theta',np.sin(t))
+dtheta = (omega)*np.cos(omega*t) #ecuación de la velocidad
+ddtheta = -((omega)**2)*np.sin(omega*t) #ecn. de aceleración
+
+#angulo = plt.figure
+#velocidad = plt.figure
+#aceleracion = plt.figure
+
+fig1 = plt.plot(t,theta)
+plt.axis([0, 6,-1,1]);
+plt.show(1)
+fig2 = plt.plot(t,dtheta)
+plt.axis([0, 6,-2,2])
+plt.show(2)
