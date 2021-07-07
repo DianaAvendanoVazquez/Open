@@ -1,0 +1,9 @@
+Autoevaluación para "correlaciones"
+
+El alumno fue capaz de construir los algoritmos necesarios para medir los distancias entre datos y datos aleatorios.
+Se estudiaron las 4 principales formas de correlaciones que existen y los datos parecían congruentes con los ejercicios propuestos.
+
+Se tuvo un problema al integrar las funciones de correlación, dado que la curva no tendía a cero como se suponía debía pasar.
+Otro problema muy importante fue que la cantidad de puntos solicitados en los ejercicios eran demasiados para la capacidad de mi computadora, razón por la que tuve que bajar la cantidad de puntos o anillos.
+
+Por haber cumplido con el objetivo y haber realizado los 4 puntos solicitados me evalúo con un 10 de 10.
