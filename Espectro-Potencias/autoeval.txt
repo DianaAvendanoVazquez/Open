@@ -1,0 +1,5 @@
+Autoevaluación para "Espectro de Potencias"
+
+Computacionalmente: 
+Este fue un trabajo muy bonito, se vió la derivación del espectro de potencias, el cual, redundantemente, regresa un espectro de dónde hay datos, materia o partículas (en nuestro caso), y al transformarlo con Fourier podemos ver el rango donde realmente se encuentra la mayor densidad de información!
+No se tuvo ningún problema con este ejercicio, por haber cumplido con el objetivo y haber realizado los 4 puntos solicitados me evalúo con un 10 de 10.
