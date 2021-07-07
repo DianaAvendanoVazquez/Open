@@ -1,0 +1,9 @@
+Autoevaluación para "Peso e interpolaciones"
+
+Este ejercicio me pareció algo complicado por lo que trabajé en equipo con otras 3 personas,
+Lo que se intentó hacer al agregarle pesos a las partículas creamos nuevos puntos más densos, de esta manera reducíamos por mucho la cantidad de puntos a analizar.
+
+Al realizar las transformadas de fourier los datos mostrados se veían algo extraños, esperaba que hubiera líneas sólo en algunos puntos, sin embargo parecía la FFT de la malla que se usó de backround.
+Cuando se realizó la FFT inversa los datos ya FFT no cambiaron, hasta donde recuerdo eso tenía sentido.
+
+Los datos obtenidos parecían congruentes, y se cumplieron con todos los puntos pedidos en la tarea, me autoevaluo con un 9 de 10, porque sin ayuda de mi compañeros yo no hubiera podido terminar esta tarea.
