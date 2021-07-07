@@ -1,0 +1,6 @@
+Autoevaluación para "Redshift"
+
+En este ejercicio estudiamos el corrimiento al rojo de los datos de un anillo.
+Físicamente considero que tiene sentido mi trabajo, las partículas se comenzaron a desplazar sólo hacia afuera, fueron muy pocas las que se fueron al centro del anillo, no había nada que las pudiera jalar hacia adentro.
+Después se calculó la función de correlación del anillo originalcon la del anillo redshifteado con una función que no habíamos utilizado nunca, no tengo referencia para saber qué significa el gráfico de densidad que se obtuvo, pero aprendí la sintaxisde la funcióm imshow.
+Por haber cumplido con los puntos solicitados me evalúo con un 10.
